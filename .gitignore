@@ -38,7 +38,7 @@ ENV/
 # Data and logs
 data/raw/
 data/processed/  # 如果很大
-experiments/*/logs/
+experiments/logs
 experiments/*/checkpoints/*.pth  # 可以忽略中间检查点
 
 # OS
