@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data and logs
+data/raw/
+data/processed/  # 如果很大
+experiments/*/logs/
+experiments/*/checkpoints/*.pth  # 可以忽略中间检查点
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Custom
+*.pth
+*.pt
+*.pkl
+*.h5
+*.hdf5

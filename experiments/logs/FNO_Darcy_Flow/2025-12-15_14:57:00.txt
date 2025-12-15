@@ -1,0 +1,1002 @@
+Starting training on device: cuda:1
+Epoch 0 finished. Avg Train Loss: 0.1450. Time: 1.76s
+Validation Loss: 1.3875
+Epoch 1 finished. Avg Train Loss: 0.0467. Time: 0.80s
+Validation Loss: 0.9985
+Epoch 2 finished. Avg Train Loss: 0.0246. Time: 0.81s
+Validation Loss: 0.1391
+Epoch 3 finished. Avg Train Loss: 0.0196. Time: 0.81s
+Validation Loss: 0.1105
+Epoch 4 finished. Avg Train Loss: 0.0148. Time: 0.84s
+Validation Loss: 0.0928
+Epoch 5 finished. Avg Train Loss: 0.0148. Time: 0.85s
+Validation Loss: 0.0713
+Epoch 6 finished. Avg Train Loss: 0.0123. Time: 0.83s
+Validation Loss: 0.0637
+Epoch 7 finished. Avg Train Loss: 0.0123. Time: 0.75s
+Validation Loss: 0.0744
+Epoch 8 finished. Avg Train Loss: 0.0115. Time: 0.76s
+Validation Loss: 0.0617
+Epoch 9 finished. Avg Train Loss: 0.0110. Time: 0.74s
+Validation Loss: 0.0538
+Epoch 10 finished. Avg Train Loss: 0.0107. Time: 0.81s
+Validation Loss: 0.0540
+Epoch 11 finished. Avg Train Loss: 0.0095. Time: 0.80s
+Validation Loss: 0.0593
+Epoch 12 finished. Avg Train Loss: 0.0101. Time: 0.80s
+Validation Loss: 0.0604
+Epoch 13 finished. Avg Train Loss: 0.0099. Time: 0.78s
+Validation Loss: 0.0534
+Epoch 14 finished. Avg Train Loss: 0.0090. Time: 0.79s
+Validation Loss: 0.0593
+Epoch 15 finished. Avg Train Loss: 0.0099. Time: 0.84s
+Validation Loss: 0.0631
+Epoch 16 finished. Avg Train Loss: 0.0078. Time: 0.79s
+Validation Loss: 0.0407
+Epoch 17 finished. Avg Train Loss: 0.0081. Time: 0.78s
+Validation Loss: 0.0543
+Epoch 18 finished. Avg Train Loss: 0.0073. Time: 0.79s
+Validation Loss: 0.0476
+Epoch 19 finished. Avg Train Loss: 0.0069. Time: 0.79s
+Validation Loss: 0.0403
+Epoch 20 finished. Avg Train Loss: 0.0072. Time: 0.86s
+Validation Loss: 0.0400
+Epoch 21 finished. Avg Train Loss: 0.0064. Time: 0.83s
+Validation Loss: 0.0406
+Epoch 22 finished. Avg Train Loss: 0.0070. Time: 0.78s
+Validation Loss: 0.0398
+Epoch 23 finished. Avg Train Loss: 0.0062. Time: 0.84s
+Validation Loss: 0.0425
+Epoch 24 finished. Avg Train Loss: 0.0059. Time: 0.81s
+Validation Loss: 0.0353
+Epoch 25 finished. Avg Train Loss: 0.0063. Time: 0.87s
+Validation Loss: 0.0425
+Epoch 26 finished. Avg Train Loss: 0.0065. Time: 0.80s
+Validation Loss: 0.0415
+Epoch 27 finished. Avg Train Loss: 0.0069. Time: 0.79s
+Validation Loss: 0.0406
+Epoch 28 finished. Avg Train Loss: 0.0068. Time: 0.79s
+Validation Loss: 0.0447
+Epoch 29 finished. Avg Train Loss: 0.0064. Time: 0.78s
+Validation Loss: 0.0430
+Epoch 30 finished. Avg Train Loss: 0.0062. Time: 0.80s
+Validation Loss: 0.0342
+Epoch 31 finished. Avg Train Loss: 0.0056. Time: 0.77s
+Validation Loss: 0.0382
+Epoch 32 finished. Avg Train Loss: 0.0060. Time: 0.85s
+Validation Loss: 0.0382
+Epoch 33 finished. Avg Train Loss: 0.0053. Time: 0.78s
+Validation Loss: 0.0399
+Epoch 34 finished. Avg Train Loss: 0.0054. Time: 0.81s
+Validation Loss: 0.0323
+Epoch 35 finished. Avg Train Loss: 0.0051. Time: 0.94s
+Validation Loss: 0.0323
+Epoch 36 finished. Avg Train Loss: 0.0048. Time: 0.75s
+Validation Loss: 0.0318
+Epoch 37 finished. Avg Train Loss: 0.0056. Time: 0.79s
+Validation Loss: 0.0314
+Epoch 38 finished. Avg Train Loss: 0.0048. Time: 0.78s
+Validation Loss: 0.0324
+Epoch 39 finished. Avg Train Loss: 0.0053. Time: 0.84s
+Validation Loss: 0.0337
+Epoch 40 finished. Avg Train Loss: 0.0057. Time: 0.80s
+Validation Loss: 0.0379
+Epoch 41 finished. Avg Train Loss: 0.0052. Time: 0.81s
+Validation Loss: 0.0304
+Epoch 42 finished. Avg Train Loss: 0.0047. Time: 0.84s
+Validation Loss: 0.0307
+Epoch 43 finished. Avg Train Loss: 0.0053. Time: 0.78s
+Validation Loss: 0.0417
+Epoch 44 finished. Avg Train Loss: 0.0046. Time: 0.80s
+Validation Loss: 0.0351
+Epoch 45 finished. Avg Train Loss: 0.0051. Time: 0.95s
+Validation Loss: 0.0379
+Epoch 46 finished. Avg Train Loss: 0.0043. Time: 0.80s
+Validation Loss: 0.0289
+Epoch 47 finished. Avg Train Loss: 0.0046. Time: 0.78s
+Validation Loss: 0.0373
+Epoch 48 finished. Avg Train Loss: 0.0050. Time: 0.82s
+Validation Loss: 0.0372
+Epoch 49 finished. Avg Train Loss: 0.0046. Time: 0.78s
+Validation Loss: 0.0334
+Epoch 50 finished. Avg Train Loss: 0.0048. Time: 0.78s
+Validation Loss: 0.0325
+Epoch 51 finished. Avg Train Loss: 0.0047. Time: 0.78s
+Validation Loss: 0.0334
+Epoch 52 finished. Avg Train Loss: 0.0042. Time: 0.84s
+Validation Loss: 0.0279
+Epoch 53 finished. Avg Train Loss: 0.0043. Time: 0.81s
+Validation Loss: 0.0297
+Epoch 54 finished. Avg Train Loss: 0.0042. Time: 0.78s
+Validation Loss: 0.0282
+Epoch 55 finished. Avg Train Loss: 0.0041. Time: 0.81s
+Validation Loss: 0.0290
+Epoch 56 finished. Avg Train Loss: 0.0042. Time: 0.79s
+Validation Loss: 0.0305
+Epoch 57 finished. Avg Train Loss: 0.0041. Time: 0.84s
+Validation Loss: 0.0273
+Epoch 58 finished. Avg Train Loss: 0.0037. Time: 0.78s
+Validation Loss: 0.0261
+Epoch 59 finished. Avg Train Loss: 0.0040. Time: 0.87s
+Validation Loss: 0.0281
+Epoch 60 finished. Avg Train Loss: 0.0041. Time: 0.83s
+Validation Loss: 0.0263
+Epoch 61 finished. Avg Train Loss: 0.0041. Time: 0.86s
+Validation Loss: 0.0330
+Epoch 62 finished. Avg Train Loss: 0.0039. Time: 0.83s
+Validation Loss: 0.0295
+Epoch 63 finished. Avg Train Loss: 0.0040. Time: 0.81s
+Validation Loss: 0.0281
+Epoch 64 finished. Avg Train Loss: 0.0040. Time: 0.80s
+Validation Loss: 0.0310
+Epoch 65 finished. Avg Train Loss: 0.0040. Time: 0.81s
+Validation Loss: 0.0259
+Epoch 66 finished. Avg Train Loss: 0.0039. Time: 0.80s
+Validation Loss: 0.0263
+Epoch 67 finished. Avg Train Loss: 0.0038. Time: 0.80s
+Validation Loss: 0.0283
+Epoch 68 finished. Avg Train Loss: 0.0038. Time: 0.76s
+Validation Loss: 0.0267
+Epoch 69 finished. Avg Train Loss: 0.0039. Time: 0.76s
+Validation Loss: 0.0257
+Epoch 70 finished. Avg Train Loss: 0.0035. Time: 0.76s
+Validation Loss: 0.0247
+Epoch 71 finished. Avg Train Loss: 0.0035. Time: 0.78s
+Validation Loss: 0.0268
+Epoch 72 finished. Avg Train Loss: 0.0037. Time: 0.77s
+Validation Loss: 0.0271
+Epoch 73 finished. Avg Train Loss: 0.0039. Time: 0.78s
+Validation Loss: 0.0306
+Epoch 74 finished. Avg Train Loss: 0.0039. Time: 0.76s
+Validation Loss: 0.0272
+Epoch 75 finished. Avg Train Loss: 0.0035. Time: 0.77s
+Validation Loss: 0.0261
+Epoch 76 finished. Avg Train Loss: 0.0039. Time: 0.77s
+Validation Loss: 0.0272
+Epoch 77 finished. Avg Train Loss: 0.0040. Time: 0.77s
+Validation Loss: 0.0308
+Epoch 78 finished. Avg Train Loss: 0.0045. Time: 0.80s
+Validation Loss: 0.0318
+Epoch 79 finished. Avg Train Loss: 0.0038. Time: 0.78s
+Validation Loss: 0.0282
+Epoch 80 finished. Avg Train Loss: 0.0037. Time: 0.81s
+Validation Loss: 0.0276
+Epoch 81 finished. Avg Train Loss: 0.0037. Time: 0.79s
+Validation Loss: 0.0242
+Epoch 82 finished. Avg Train Loss: 0.0034. Time: 0.78s
+Validation Loss: 0.0252
+Epoch 83 finished. Avg Train Loss: 0.0042. Time: 0.79s
+Validation Loss: 0.0279
+Epoch 84 finished. Avg Train Loss: 0.0036. Time: 0.83s
+Validation Loss: 0.0245
+Epoch 85 finished. Avg Train Loss: 0.0033. Time: 0.79s
+Validation Loss: 0.0231
+Epoch 86 finished. Avg Train Loss: 0.0032. Time: 0.80s
+Validation Loss: 0.0270
+Epoch 87 finished. Avg Train Loss: 0.0032. Time: 0.79s
+Validation Loss: 0.0272
+Epoch 88 finished. Avg Train Loss: 0.0032. Time: 0.77s
+Validation Loss: 0.0242
+Epoch 89 finished. Avg Train Loss: 0.0030. Time: 0.78s
+Validation Loss: 0.0226
+Epoch 90 finished. Avg Train Loss: 0.0034. Time: 0.83s
+Validation Loss: 0.0263
+Epoch 91 finished. Avg Train Loss: 0.0038. Time: 0.81s
+Validation Loss: 0.0291
+Epoch 92 finished. Avg Train Loss: 0.0033. Time: 0.82s
+Validation Loss: 0.0254
+Epoch 93 finished. Avg Train Loss: 0.0032. Time: 0.88s
+Validation Loss: 0.0239
+Epoch 94 finished. Avg Train Loss: 0.0034. Time: 0.78s
+Validation Loss: 0.0231
+Epoch 95 finished. Avg Train Loss: 0.0031. Time: 0.76s
+Validation Loss: 0.0233
+Epoch 96 finished. Avg Train Loss: 0.0032. Time: 0.79s
+Validation Loss: 0.0263
+Epoch 97 finished. Avg Train Loss: 0.0036. Time: 0.81s
+Validation Loss: 0.0234
+Epoch 98 finished. Avg Train Loss: 0.0032. Time: 0.76s
+Validation Loss: 0.0238
+Epoch 99 finished. Avg Train Loss: 0.0033. Time: 0.82s
+Validation Loss: 0.0266
+Epoch 100 finished. Avg Train Loss: 0.0031. Time: 0.85s
+Validation Loss: 0.0257
+Epoch 101 finished. Avg Train Loss: 0.0033. Time: 0.82s
+Validation Loss: 0.0255
+Epoch 102 finished. Avg Train Loss: 0.0034. Time: 0.81s
+Validation Loss: 0.0225
+Epoch 103 finished. Avg Train Loss: 0.0032. Time: 0.87s
+Validation Loss: 0.0264
+Epoch 104 finished. Avg Train Loss: 0.0032. Time: 0.85s
+Validation Loss: 0.0238
+Epoch 105 finished. Avg Train Loss: 0.0034. Time: 0.96s
+Validation Loss: 0.0288
+Epoch 106 finished. Avg Train Loss: 0.0033. Time: 1.00s
+Validation Loss: 0.0248
+Epoch 107 finished. Avg Train Loss: 0.0035. Time: 0.77s
+Validation Loss: 0.0242
+Epoch 108 finished. Avg Train Loss: 0.0036. Time: 0.80s
+Validation Loss: 0.0270
+Epoch 109 finished. Avg Train Loss: 0.0035. Time: 1.01s
+Validation Loss: 0.0236
+Epoch 110 finished. Avg Train Loss: 0.0030. Time: 0.95s
+Validation Loss: 0.0221
+Epoch 111 finished. Avg Train Loss: 0.0030. Time: 0.78s
+Validation Loss: 0.0230
+Epoch 112 finished. Avg Train Loss: 0.0029. Time: 0.81s
+Validation Loss: 0.0221
+Epoch 113 finished. Avg Train Loss: 0.0031. Time: 0.80s
+Validation Loss: 0.0229
+Epoch 114 finished. Avg Train Loss: 0.0033. Time: 0.85s
+Validation Loss: 0.0246
+Epoch 115 finished. Avg Train Loss: 0.0034. Time: 0.78s
+Validation Loss: 0.0256
+Epoch 116 finished. Avg Train Loss: 0.0035. Time: 0.80s
+Validation Loss: 0.0258
+Epoch 117 finished. Avg Train Loss: 0.0030. Time: 0.80s
+Validation Loss: 0.0208
+Epoch 118 finished. Avg Train Loss: 0.0030. Time: 0.82s
+Validation Loss: 0.0248
+Epoch 119 finished. Avg Train Loss: 0.0029. Time: 0.90s
+Validation Loss: 0.0224
+Epoch 120 finished. Avg Train Loss: 0.0031. Time: 0.98s
+Validation Loss: 0.0256
+Epoch 121 finished. Avg Train Loss: 0.0031. Time: 0.78s
+Validation Loss: 0.0222
+Epoch 122 finished. Avg Train Loss: 0.0031. Time: 0.80s
+Validation Loss: 0.0247
+Epoch 123 finished. Avg Train Loss: 0.0030. Time: 0.79s
+Validation Loss: 0.0208
+Epoch 124 finished. Avg Train Loss: 0.0030. Time: 0.80s
+Validation Loss: 0.0222
+Epoch 125 finished. Avg Train Loss: 0.0028. Time: 0.77s
+Validation Loss: 0.0210
+Epoch 126 finished. Avg Train Loss: 0.0030. Time: 0.81s
+Validation Loss: 0.0230
+Epoch 127 finished. Avg Train Loss: 0.0029. Time: 0.90s
+Validation Loss: 0.0224
+Epoch 128 finished. Avg Train Loss: 0.0032. Time: 1.01s
+Validation Loss: 0.0234
+Epoch 129 finished. Avg Train Loss: 0.0030. Time: 0.87s
+Validation Loss: 0.0235
+Epoch 130 finished. Avg Train Loss: 0.0031. Time: 0.80s
+Validation Loss: 0.0217
+Epoch 131 finished. Avg Train Loss: 0.0028. Time: 0.86s
+Validation Loss: 0.0214
+Epoch 132 finished. Avg Train Loss: 0.0029. Time: 0.79s
+Validation Loss: 0.0228
+Epoch 133 finished. Avg Train Loss: 0.0028. Time: 0.89s
+Validation Loss: 0.0209
+Epoch 134 finished. Avg Train Loss: 0.0028. Time: 0.87s
+Validation Loss: 0.0216
+Epoch 135 finished. Avg Train Loss: 0.0027. Time: 0.81s
+Validation Loss: 0.0205
+Epoch 136 finished. Avg Train Loss: 0.0027. Time: 0.81s
+Validation Loss: 0.0205
+Epoch 137 finished. Avg Train Loss: 0.0031. Time: 0.79s
+Validation Loss: 0.0218
+Epoch 138 finished. Avg Train Loss: 0.0028. Time: 0.96s
+Validation Loss: 0.0215
+Epoch 139 finished. Avg Train Loss: 0.0029. Time: 0.84s
+Validation Loss: 0.0241
+Epoch 140 finished. Avg Train Loss: 0.0028. Time: 0.80s
+Validation Loss: 0.0214
+Epoch 141 finished. Avg Train Loss: 0.0026. Time: 0.83s
+Validation Loss: 0.0194
+Epoch 142 finished. Avg Train Loss: 0.0029. Time: 0.91s
+Validation Loss: 0.0238
+Epoch 143 finished. Avg Train Loss: 0.0030. Time: 0.79s
+Validation Loss: 0.0203
+Epoch 144 finished. Avg Train Loss: 0.0027. Time: 0.79s
+Validation Loss: 0.0217
+Epoch 145 finished. Avg Train Loss: 0.0027. Time: 0.91s
+Validation Loss: 0.0192
+Epoch 146 finished. Avg Train Loss: 0.0026. Time: 0.80s
+Validation Loss: 0.0219
+Epoch 147 finished. Avg Train Loss: 0.0027. Time: 0.80s
+Validation Loss: 0.0211
+Epoch 148 finished. Avg Train Loss: 0.0028. Time: 0.80s
+Validation Loss: 0.0207
+Epoch 149 finished. Avg Train Loss: 0.0033. Time: 0.79s
+Validation Loss: 0.0270
+Epoch 150 finished. Avg Train Loss: 0.0029. Time: 0.82s
+Validation Loss: 0.0256
+Epoch 151 finished. Avg Train Loss: 0.0031. Time: 0.73s
+Validation Loss: 0.0230
+Epoch 152 finished. Avg Train Loss: 0.0028. Time: 0.76s
+Validation Loss: 0.0218
+Epoch 153 finished. Avg Train Loss: 0.0027. Time: 0.76s
+Validation Loss: 0.0208
+Epoch 154 finished. Avg Train Loss: 0.0030. Time: 0.77s
+Validation Loss: 0.0209
+Epoch 155 finished. Avg Train Loss: 0.0027. Time: 0.80s
+Validation Loss: 0.0204
+Epoch 156 finished. Avg Train Loss: 0.0028. Time: 1.06s
+Validation Loss: 0.0223
+Epoch 157 finished. Avg Train Loss: 0.0028. Time: 0.86s
+Validation Loss: 0.0220
+Epoch 158 finished. Avg Train Loss: 0.0027. Time: 0.78s
+Validation Loss: 0.0211
+Epoch 159 finished. Avg Train Loss: 0.0028. Time: 0.95s
+Validation Loss: 0.0204
+Epoch 160 finished. Avg Train Loss: 0.0026. Time: 0.87s
+Validation Loss: 0.0224
+Epoch 161 finished. Avg Train Loss: 0.0029. Time: 0.81s
+Validation Loss: 0.0228
+Epoch 162 finished. Avg Train Loss: 0.0026. Time: 0.82s
+Validation Loss: 0.0197
+Epoch 163 finished. Avg Train Loss: 0.0027. Time: 0.88s
+Validation Loss: 0.0210
+Epoch 164 finished. Avg Train Loss: 0.0028. Time: 0.79s
+Validation Loss: 0.0196
+Epoch 165 finished. Avg Train Loss: 0.0027. Time: 0.83s
+Validation Loss: 0.0231
+Epoch 166 finished. Avg Train Loss: 0.0026. Time: 0.78s
+Validation Loss: 0.0199
+Epoch 167 finished. Avg Train Loss: 0.0026. Time: 0.89s
+Validation Loss: 0.0191
+Epoch 168 finished. Avg Train Loss: 0.0026. Time: 0.80s
+Validation Loss: 0.0198
+Epoch 169 finished. Avg Train Loss: 0.0026. Time: 0.85s
+Validation Loss: 0.0193
+Epoch 170 finished. Avg Train Loss: 0.0025. Time: 0.79s
+Validation Loss: 0.0199
+Epoch 171 finished. Avg Train Loss: 0.0026. Time: 0.88s
+Validation Loss: 0.0233
+Epoch 172 finished. Avg Train Loss: 0.0027. Time: 0.88s
+Validation Loss: 0.0212
+Epoch 173 finished. Avg Train Loss: 0.0026. Time: 0.92s
+Validation Loss: 0.0206
+Epoch 174 finished. Avg Train Loss: 0.0025. Time: 0.90s
+Validation Loss: 0.0201
+Epoch 175 finished. Avg Train Loss: 0.0025. Time: 0.80s
+Validation Loss: 0.0205
+Epoch 176 finished. Avg Train Loss: 0.0028. Time: 0.80s
+Validation Loss: 0.0211
+Epoch 177 finished. Avg Train Loss: 0.0025. Time: 0.84s
+Validation Loss: 0.0184
+Epoch 178 finished. Avg Train Loss: 0.0025. Time: 0.80s
+Validation Loss: 0.0205
+Epoch 179 finished. Avg Train Loss: 0.0027. Time: 0.80s
+Validation Loss: 0.0218
+Epoch 180 finished. Avg Train Loss: 0.0027. Time: 0.80s
+Validation Loss: 0.0199
+Epoch 181 finished. Avg Train Loss: 0.0025. Time: 0.77s
+Validation Loss: 0.0194
+Epoch 182 finished. Avg Train Loss: 0.0024. Time: 0.86s
+Validation Loss: 0.0186
+Epoch 183 finished. Avg Train Loss: 0.0025. Time: 0.79s
+Validation Loss: 0.0194
+Epoch 184 finished. Avg Train Loss: 0.0025. Time: 0.86s
+Validation Loss: 0.0189
+Epoch 185 finished. Avg Train Loss: 0.0023. Time: 0.81s
+Validation Loss: 0.0176
+Epoch 186 finished. Avg Train Loss: 0.0026. Time: 0.85s
+Validation Loss: 0.0205
+Epoch 187 finished. Avg Train Loss: 0.0025. Time: 0.82s
+Validation Loss: 0.0196
+Epoch 188 finished. Avg Train Loss: 0.0025. Time: 0.82s
+Validation Loss: 0.0207
+Epoch 189 finished. Avg Train Loss: 0.0025. Time: 0.85s
+Validation Loss: 0.0185
+Epoch 190 finished. Avg Train Loss: 0.0025. Time: 0.90s
+Validation Loss: 0.0201
+Epoch 191 finished. Avg Train Loss: 0.0024. Time: 0.81s
+Validation Loss: 0.0183
+Epoch 192 finished. Avg Train Loss: 0.0024. Time: 0.91s
+Validation Loss: 0.0187
+Epoch 193 finished. Avg Train Loss: 0.0024. Time: 0.80s
+Validation Loss: 0.0185
+Epoch 194 finished. Avg Train Loss: 0.0024. Time: 0.91s
+Validation Loss: 0.0185
+Epoch 195 finished. Avg Train Loss: 0.0024. Time: 0.90s
+Validation Loss: 0.0188
+Epoch 196 finished. Avg Train Loss: 0.0024. Time: 0.81s
+Validation Loss: 0.0202
+Epoch 197 finished. Avg Train Loss: 0.0025. Time: 0.80s
+Validation Loss: 0.0189
+Epoch 198 finished. Avg Train Loss: 0.0024. Time: 0.86s
+Validation Loss: 0.0191
+Epoch 199 finished. Avg Train Loss: 0.0023. Time: 1.00s
+Validation Loss: 0.0173
+Epoch 200 finished. Avg Train Loss: 0.0023. Time: 0.86s
+Validation Loss: 0.0191
+Epoch 201 finished. Avg Train Loss: 0.0024. Time: 0.84s
+Validation Loss: 0.0195
+Epoch 202 finished. Avg Train Loss: 0.0023. Time: 0.89s
+Validation Loss: 0.0182
+Epoch 203 finished. Avg Train Loss: 0.0024. Time: 0.99s
+Validation Loss: 0.0197
+Epoch 204 finished. Avg Train Loss: 0.0024. Time: 0.87s
+Validation Loss: 0.0184
+Epoch 205 finished. Avg Train Loss: 0.0025. Time: 0.81s
+Validation Loss: 0.0193
+Epoch 206 finished. Avg Train Loss: 0.0024. Time: 0.74s
+Validation Loss: 0.0176
+Epoch 207 finished. Avg Train Loss: 0.0024. Time: 0.74s
+Validation Loss: 0.0184
+Epoch 208 finished. Avg Train Loss: 0.0024. Time: 0.74s
+Validation Loss: 0.0180
+Epoch 209 finished. Avg Train Loss: 0.0024. Time: 0.85s
+Validation Loss: 0.0191
+Epoch 210 finished. Avg Train Loss: 0.0025. Time: 0.79s
+Validation Loss: 0.0227
+Epoch 211 finished. Avg Train Loss: 0.0026. Time: 1.09s
+Validation Loss: 0.0210
+Epoch 212 finished. Avg Train Loss: 0.0025. Time: 0.85s
+Validation Loss: 0.0196
+Epoch 213 finished. Avg Train Loss: 0.0023. Time: 0.86s
+Validation Loss: 0.0207
+Epoch 214 finished. Avg Train Loss: 0.0025. Time: 0.92s
+Validation Loss: 0.0197
+Epoch 215 finished. Avg Train Loss: 0.0025. Time: 0.84s
+Validation Loss: 0.0209
+Epoch 216 finished. Avg Train Loss: 0.0025. Time: 0.83s
+Validation Loss: 0.0183
+Epoch 217 finished. Avg Train Loss: 0.0024. Time: 0.84s
+Validation Loss: 0.0184
+Epoch 218 finished. Avg Train Loss: 0.0024. Time: 0.85s
+Validation Loss: 0.0180
+Epoch 219 finished. Avg Train Loss: 0.0025. Time: 0.86s
+Validation Loss: 0.0197
+Epoch 220 finished. Avg Train Loss: 0.0025. Time: 0.81s
+Validation Loss: 0.0197
+Epoch 221 finished. Avg Train Loss: 0.0024. Time: 0.92s
+Validation Loss: 0.0183
+Epoch 222 finished. Avg Train Loss: 0.0023. Time: 0.93s
+Validation Loss: 0.0182
+Epoch 223 finished. Avg Train Loss: 0.0023. Time: 0.78s
+Validation Loss: 0.0189
+Epoch 224 finished. Avg Train Loss: 0.0023. Time: 0.83s
+Validation Loss: 0.0191
+Epoch 225 finished. Avg Train Loss: 0.0022. Time: 0.80s
+Validation Loss: 0.0193
+Epoch 226 finished. Avg Train Loss: 0.0027. Time: 0.90s
+Validation Loss: 0.0216
+Epoch 227 finished. Avg Train Loss: 0.0024. Time: 0.96s
+Validation Loss: 0.0176
+Epoch 228 finished. Avg Train Loss: 0.0023. Time: 0.85s
+Validation Loss: 0.0177
+Epoch 229 finished. Avg Train Loss: 0.0025. Time: 0.96s
+Validation Loss: 0.0179
+Epoch 230 finished. Avg Train Loss: 0.0022. Time: 0.86s
+Validation Loss: 0.0170
+Epoch 231 finished. Avg Train Loss: 0.0022. Time: 0.91s
+Validation Loss: 0.0168
+Epoch 232 finished. Avg Train Loss: 0.0023. Time: 0.89s
+Validation Loss: 0.0184
+Epoch 233 finished. Avg Train Loss: 0.0023. Time: 0.92s
+Validation Loss: 0.0170
+Epoch 234 finished. Avg Train Loss: 0.0023. Time: 0.74s
+Validation Loss: 0.0196
+Epoch 235 finished. Avg Train Loss: 0.0026. Time: 0.74s
+Validation Loss: 0.0209
+Epoch 236 finished. Avg Train Loss: 0.0022. Time: 0.75s
+Validation Loss: 0.0194
+Epoch 237 finished. Avg Train Loss: 0.0023. Time: 0.82s
+Validation Loss: 0.0180
+Epoch 238 finished. Avg Train Loss: 0.0023. Time: 0.83s
+Validation Loss: 0.0183
+Epoch 239 finished. Avg Train Loss: 0.0023. Time: 0.78s
+Validation Loss: 0.0173
+Epoch 240 finished. Avg Train Loss: 0.0021. Time: 0.91s
+Validation Loss: 0.0176
+Epoch 241 finished. Avg Train Loss: 0.0022. Time: 0.88s
+Validation Loss: 0.0172
+Epoch 242 finished. Avg Train Loss: 0.0023. Time: 0.80s
+Validation Loss: 0.0203
+Epoch 243 finished. Avg Train Loss: 0.0024. Time: 0.89s
+Validation Loss: 0.0182
+Epoch 244 finished. Avg Train Loss: 0.0023. Time: 0.81s
+Validation Loss: 0.0185
+Epoch 245 finished. Avg Train Loss: 0.0023. Time: 0.86s
+Validation Loss: 0.0204
+Epoch 246 finished. Avg Train Loss: 0.0023. Time: 0.88s
+Validation Loss: 0.0184
+Epoch 247 finished. Avg Train Loss: 0.0022. Time: 0.85s
+Validation Loss: 0.0171
+Epoch 248 finished. Avg Train Loss: 0.0021. Time: 0.80s
+Validation Loss: 0.0162
+Epoch 249 finished. Avg Train Loss: 0.0023. Time: 0.87s
+Validation Loss: 0.0177
+Epoch 250 finished. Avg Train Loss: 0.0024. Time: 0.83s
+Validation Loss: 0.0170
+Epoch 251 finished. Avg Train Loss: 0.0022. Time: 0.80s
+Validation Loss: 0.0171
+Epoch 252 finished. Avg Train Loss: 0.0022. Time: 0.84s
+Validation Loss: 0.0166
+Epoch 253 finished. Avg Train Loss: 0.0022. Time: 0.84s
+Validation Loss: 0.0181
+Epoch 254 finished. Avg Train Loss: 0.0022. Time: 0.88s
+Validation Loss: 0.0185
+Epoch 255 finished. Avg Train Loss: 0.0024. Time: 0.86s
+Validation Loss: 0.0167
+Epoch 256 finished. Avg Train Loss: 0.0022. Time: 0.83s
+Validation Loss: 0.0182
+Epoch 257 finished. Avg Train Loss: 0.0022. Time: 0.78s
+Validation Loss: 0.0177
+Epoch 258 finished. Avg Train Loss: 0.0021. Time: 0.80s
+Validation Loss: 0.0167
+Epoch 259 finished. Avg Train Loss: 0.0023. Time: 0.80s
+Validation Loss: 0.0184
+Epoch 260 finished. Avg Train Loss: 0.0023. Time: 0.83s
+Validation Loss: 0.0172
+Epoch 261 finished. Avg Train Loss: 0.0021. Time: 0.76s
+Validation Loss: 0.0177
+Epoch 262 finished. Avg Train Loss: 0.0021. Time: 0.78s
+Validation Loss: 0.0166
+Epoch 263 finished. Avg Train Loss: 0.0029. Time: 0.80s
+Validation Loss: 0.0220
+Epoch 264 finished. Avg Train Loss: 0.0024. Time: 0.78s
+Validation Loss: 0.0193
+Epoch 265 finished. Avg Train Loss: 0.0023. Time: 0.78s
+Validation Loss: 0.0164
+Epoch 266 finished. Avg Train Loss: 0.0022. Time: 0.85s
+Validation Loss: 0.0168
+Epoch 267 finished. Avg Train Loss: 0.0022. Time: 0.82s
+Validation Loss: 0.0167
+Epoch 268 finished. Avg Train Loss: 0.0021. Time: 0.82s
+Validation Loss: 0.0169
+Epoch 269 finished. Avg Train Loss: 0.0021. Time: 0.89s
+Validation Loss: 0.0158
+Epoch 270 finished. Avg Train Loss: 0.0021. Time: 0.87s
+Validation Loss: 0.0166
+Epoch 271 finished. Avg Train Loss: 0.0022. Time: 0.97s
+Validation Loss: 0.0175
+Epoch 272 finished. Avg Train Loss: 0.0023. Time: 0.96s
+Validation Loss: 0.0182
+Epoch 273 finished. Avg Train Loss: 0.0024. Time: 0.83s
+Validation Loss: 0.0180
+Epoch 274 finished. Avg Train Loss: 0.0023. Time: 0.78s
+Validation Loss: 0.0165
+Epoch 275 finished. Avg Train Loss: 0.0024. Time: 0.89s
+Validation Loss: 0.0175
+Epoch 276 finished. Avg Train Loss: 0.0024. Time: 0.84s
+Validation Loss: 0.0176
+Epoch 277 finished. Avg Train Loss: 0.0021. Time: 0.79s
+Validation Loss: 0.0171
+Epoch 278 finished. Avg Train Loss: 0.0022. Time: 0.82s
+Validation Loss: 0.0164
+Epoch 279 finished. Avg Train Loss: 0.0020. Time: 0.79s
+Validation Loss: 0.0169
+Epoch 280 finished. Avg Train Loss: 0.0020. Time: 0.79s
+Validation Loss: 0.0157
+Epoch 281 finished. Avg Train Loss: 0.0021. Time: 0.79s
+Validation Loss: 0.0155
+Epoch 282 finished. Avg Train Loss: 0.0021. Time: 0.83s
+Validation Loss: 0.0170
+Epoch 283 finished. Avg Train Loss: 0.0022. Time: 0.81s
+Validation Loss: 0.0200
+Epoch 284 finished. Avg Train Loss: 0.0023. Time: 0.81s
+Validation Loss: 0.0165
+Epoch 285 finished. Avg Train Loss: 0.0022. Time: 0.85s
+Validation Loss: 0.0172
+Epoch 286 finished. Avg Train Loss: 0.0021. Time: 0.84s
+Validation Loss: 0.0169
+Epoch 287 finished. Avg Train Loss: 0.0021. Time: 0.89s
+Validation Loss: 0.0156
+Epoch 288 finished. Avg Train Loss: 0.0022. Time: 0.88s
+Validation Loss: 0.0190
+Epoch 289 finished. Avg Train Loss: 0.0022. Time: 0.80s
+Validation Loss: 0.0174
+Epoch 290 finished. Avg Train Loss: 0.0022. Time: 0.75s
+Validation Loss: 0.0158
+Epoch 291 finished. Avg Train Loss: 0.0021. Time: 0.76s
+Validation Loss: 0.0158
+Epoch 292 finished. Avg Train Loss: 0.0020. Time: 0.82s
+Validation Loss: 0.0169
+Epoch 293 finished. Avg Train Loss: 0.0021. Time: 0.81s
+Validation Loss: 0.0166
+Epoch 294 finished. Avg Train Loss: 0.0021. Time: 0.93s
+Validation Loss: 0.0163
+Epoch 295 finished. Avg Train Loss: 0.0020. Time: 0.83s
+Validation Loss: 0.0157
+Epoch 296 finished. Avg Train Loss: 0.0020. Time: 0.83s
+Validation Loss: 0.0161
+Epoch 297 finished. Avg Train Loss: 0.0021. Time: 0.80s
+Validation Loss: 0.0163
+Epoch 298 finished. Avg Train Loss: 0.0022. Time: 0.80s
+Validation Loss: 0.0186
+Epoch 299 finished. Avg Train Loss: 0.0021. Time: 0.79s
+Validation Loss: 0.0164
+Epoch 300 finished. Avg Train Loss: 0.0020. Time: 0.83s
+Validation Loss: 0.0157
+Epoch 301 finished. Avg Train Loss: 0.0021. Time: 0.79s
+Validation Loss: 0.0155
+Epoch 302 finished. Avg Train Loss: 0.0020. Time: 0.80s
+Validation Loss: 0.0167
+Epoch 303 finished. Avg Train Loss: 0.0020. Time: 0.80s
+Validation Loss: 0.0169
+Epoch 304 finished. Avg Train Loss: 0.0021. Time: 0.79s
+Validation Loss: 0.0161
+Epoch 305 finished. Avg Train Loss: 0.0021. Time: 0.85s
+Validation Loss: 0.0179
+Epoch 306 finished. Avg Train Loss: 0.0022. Time: 0.82s
+Validation Loss: 0.0179
+Epoch 307 finished. Avg Train Loss: 0.0022. Time: 0.80s
+Validation Loss: 0.0171
+Epoch 308 finished. Avg Train Loss: 0.0022. Time: 0.84s
+Validation Loss: 0.0174
+Epoch 309 finished. Avg Train Loss: 0.0020. Time: 0.89s
+Validation Loss: 0.0167
+Epoch 310 finished. Avg Train Loss: 0.0022. Time: 0.85s
+Validation Loss: 0.0160
+Epoch 311 finished. Avg Train Loss: 0.0020. Time: 0.88s
+Validation Loss: 0.0168
+Epoch 312 finished. Avg Train Loss: 0.0020. Time: 0.94s
+Validation Loss: 0.0153
+Epoch 313 finished. Avg Train Loss: 0.0020. Time: 0.87s
+Validation Loss: 0.0152
+Epoch 314 finished. Avg Train Loss: 0.0020. Time: 0.82s
+Validation Loss: 0.0158
+Epoch 315 finished. Avg Train Loss: 0.0020. Time: 0.84s
+Validation Loss: 0.0150
+Epoch 316 finished. Avg Train Loss: 0.0020. Time: 0.85s
+Validation Loss: 0.0151
+Epoch 317 finished. Avg Train Loss: 0.0020. Time: 0.81s
+Validation Loss: 0.0156
+Epoch 318 finished. Avg Train Loss: 0.0019. Time: 0.81s
+Validation Loss: 0.0147
+Epoch 319 finished. Avg Train Loss: 0.0019. Time: 0.78s
+Validation Loss: 0.0142
+Epoch 320 finished. Avg Train Loss: 0.0019. Time: 0.80s
+Validation Loss: 0.0168
+Epoch 321 finished. Avg Train Loss: 0.0021. Time: 0.78s
+Validation Loss: 0.0168
+Epoch 322 finished. Avg Train Loss: 0.0021. Time: 0.80s
+Validation Loss: 0.0148
+Epoch 323 finished. Avg Train Loss: 0.0021. Time: 0.79s
+Validation Loss: 0.0163
+Epoch 324 finished. Avg Train Loss: 0.0020. Time: 0.85s
+Validation Loss: 0.0155
+Epoch 325 finished. Avg Train Loss: 0.0020. Time: 0.84s
+Validation Loss: 0.0168
+Epoch 326 finished. Avg Train Loss: 0.0023. Time: 0.82s
+Validation Loss: 0.0172
+Epoch 327 finished. Avg Train Loss: 0.0020. Time: 0.86s
+Validation Loss: 0.0161
+Epoch 328 finished. Avg Train Loss: 0.0020. Time: 0.87s
+Validation Loss: 0.0148
+Epoch 329 finished. Avg Train Loss: 0.0020. Time: 0.79s
+Validation Loss: 0.0154
+Epoch 330 finished. Avg Train Loss: 0.0020. Time: 0.80s
+Validation Loss: 0.0159
+Epoch 331 finished. Avg Train Loss: 0.0020. Time: 0.79s
+Validation Loss: 0.0153
+Epoch 332 finished. Avg Train Loss: 0.0020. Time: 0.79s
+Validation Loss: 0.0163
+Epoch 333 finished. Avg Train Loss: 0.0021. Time: 0.81s
+Validation Loss: 0.0160
+Epoch 334 finished. Avg Train Loss: 0.0019. Time: 0.80s
+Validation Loss: 0.0152
+Epoch 335 finished. Avg Train Loss: 0.0019. Time: 0.83s
+Validation Loss: 0.0158
+Epoch 336 finished. Avg Train Loss: 0.0021. Time: 0.89s
+Validation Loss: 0.0161
+Epoch 337 finished. Avg Train Loss: 0.0020. Time: 0.80s
+Validation Loss: 0.0162
+Epoch 338 finished. Avg Train Loss: 0.0021. Time: 0.84s
+Validation Loss: 0.0174
+Epoch 339 finished. Avg Train Loss: 0.0022. Time: 0.81s
+Validation Loss: 0.0161
+Epoch 340 finished. Avg Train Loss: 0.0020. Time: 0.95s
+Validation Loss: 0.0161
+Epoch 341 finished. Avg Train Loss: 0.0020. Time: 0.85s
+Validation Loss: 0.0159
+Epoch 342 finished. Avg Train Loss: 0.0020. Time: 0.83s
+Validation Loss: 0.0160
+Epoch 343 finished. Avg Train Loss: 0.0018. Time: 0.82s
+Validation Loss: 0.0155
+Epoch 344 finished. Avg Train Loss: 0.0019. Time: 0.75s
+Validation Loss: 0.0151
+Epoch 345 finished. Avg Train Loss: 0.0019. Time: 0.76s
+Validation Loss: 0.0150
+Epoch 346 finished. Avg Train Loss: 0.0019. Time: 0.78s
+Validation Loss: 0.0163
+Epoch 347 finished. Avg Train Loss: 0.0020. Time: 0.81s
+Validation Loss: 0.0152
+Epoch 348 finished. Avg Train Loss: 0.0019. Time: 0.83s
+Validation Loss: 0.0159
+Epoch 349 finished. Avg Train Loss: 0.0020. Time: 0.81s
+Validation Loss: 0.0151
+Epoch 350 finished. Avg Train Loss: 0.0019. Time: 0.85s
+Validation Loss: 0.0148
+Epoch 351 finished. Avg Train Loss: 0.0019. Time: 0.88s
+Validation Loss: 0.0144
+Epoch 352 finished. Avg Train Loss: 0.0019. Time: 0.87s
+Validation Loss: 0.0162
+Epoch 353 finished. Avg Train Loss: 0.0018. Time: 0.82s
+Validation Loss: 0.0149
+Epoch 354 finished. Avg Train Loss: 0.0020. Time: 0.83s
+Validation Loss: 0.0154
+Epoch 355 finished. Avg Train Loss: 0.0021. Time: 0.81s
+Validation Loss: 0.0166
+Epoch 356 finished. Avg Train Loss: 0.0021. Time: 0.81s
+Validation Loss: 0.0155
+Epoch 357 finished. Avg Train Loss: 0.0022. Time: 0.90s
+Validation Loss: 0.0175
+Epoch 358 finished. Avg Train Loss: 0.0021. Time: 0.97s
+Validation Loss: 0.0155
+Epoch 359 finished. Avg Train Loss: 0.0020. Time: 0.89s
+Validation Loss: 0.0152
+Epoch 360 finished. Avg Train Loss: 0.0020. Time: 0.79s
+Validation Loss: 0.0159
+Epoch 361 finished. Avg Train Loss: 0.0019. Time: 0.82s
+Validation Loss: 0.0148
+Epoch 362 finished. Avg Train Loss: 0.0020. Time: 0.97s
+Validation Loss: 0.0150
+Epoch 363 finished. Avg Train Loss: 0.0020. Time: 0.87s
+Validation Loss: 0.0166
+Epoch 364 finished. Avg Train Loss: 0.0020. Time: 0.82s
+Validation Loss: 0.0150
+Epoch 365 finished. Avg Train Loss: 0.0019. Time: 0.87s
+Validation Loss: 0.0157
+Epoch 366 finished. Avg Train Loss: 0.0018. Time: 0.81s
+Validation Loss: 0.0144
+Epoch 367 finished. Avg Train Loss: 0.0018. Time: 0.85s
+Validation Loss: 0.0154
+Epoch 368 finished. Avg Train Loss: 0.0018. Time: 0.89s
+Validation Loss: 0.0150
+Epoch 369 finished. Avg Train Loss: 0.0019. Time: 0.87s
+Validation Loss: 0.0150
+Epoch 370 finished. Avg Train Loss: 0.0018. Time: 0.89s
+Validation Loss: 0.0161
+Epoch 371 finished. Avg Train Loss: 0.0018. Time: 0.88s
+Validation Loss: 0.0140
+Epoch 372 finished. Avg Train Loss: 0.0019. Time: 0.79s
+Validation Loss: 0.0157
+Epoch 373 finished. Avg Train Loss: 0.0019. Time: 0.80s
+Validation Loss: 0.0145
+Epoch 374 finished. Avg Train Loss: 0.0019. Time: 0.77s
+Validation Loss: 0.0145
+Epoch 375 finished. Avg Train Loss: 0.0018. Time: 0.81s
+Validation Loss: 0.0143
+Epoch 376 finished. Avg Train Loss: 0.0020. Time: 0.89s
+Validation Loss: 0.0173
+Epoch 377 finished. Avg Train Loss: 0.0019. Time: 0.82s
+Validation Loss: 0.0141
+Epoch 378 finished. Avg Train Loss: 0.0019. Time: 1.06s
+Validation Loss: 0.0154
+Epoch 379 finished. Avg Train Loss: 0.0019. Time: 0.82s
+Validation Loss: 0.0139
+Epoch 380 finished. Avg Train Loss: 0.0019. Time: 0.84s
+Validation Loss: 0.0142
+Epoch 381 finished. Avg Train Loss: 0.0020. Time: 0.83s
+Validation Loss: 0.0139
+Epoch 382 finished. Avg Train Loss: 0.0018. Time: 0.93s
+Validation Loss: 0.0140
+Epoch 383 finished. Avg Train Loss: 0.0019. Time: 0.81s
+Validation Loss: 0.0179
+Epoch 384 finished. Avg Train Loss: 0.0021. Time: 0.78s
+Validation Loss: 0.0155
+Epoch 385 finished. Avg Train Loss: 0.0019. Time: 0.91s
+Validation Loss: 0.0150
+Epoch 386 finished. Avg Train Loss: 0.0018. Time: 0.91s
+Validation Loss: 0.0143
+Epoch 387 finished. Avg Train Loss: 0.0019. Time: 0.81s
+Validation Loss: 0.0149
+Epoch 388 finished. Avg Train Loss: 0.0020. Time: 0.81s
+Validation Loss: 0.0150
+Epoch 389 finished. Avg Train Loss: 0.0019. Time: 0.85s
+Validation Loss: 0.0153
+Epoch 390 finished. Avg Train Loss: 0.0020. Time: 0.92s
+Validation Loss: 0.0142
+Epoch 391 finished. Avg Train Loss: 0.0019. Time: 0.89s
+Validation Loss: 0.0146
+Epoch 392 finished. Avg Train Loss: 0.0019. Time: 0.80s
+Validation Loss: 0.0150
+Epoch 393 finished. Avg Train Loss: 0.0018. Time: 0.87s
+Validation Loss: 0.0145
+Epoch 394 finished. Avg Train Loss: 0.0019. Time: 0.94s
+Validation Loss: 0.0156
+Epoch 395 finished. Avg Train Loss: 0.0019. Time: 0.79s
+Validation Loss: 0.0155
+Epoch 396 finished. Avg Train Loss: 0.0019. Time: 0.87s
+Validation Loss: 0.0164
+Epoch 397 finished. Avg Train Loss: 0.0019. Time: 0.80s
+Validation Loss: 0.0137
+Epoch 398 finished. Avg Train Loss: 0.0020. Time: 0.81s
+Validation Loss: 0.0184
+Epoch 399 finished. Avg Train Loss: 0.0020. Time: 0.81s
+Validation Loss: 0.0139
+Epoch 400 finished. Avg Train Loss: 0.0018. Time: 0.74s
+Validation Loss: 0.0148
+Epoch 401 finished. Avg Train Loss: 0.0019. Time: 0.75s
+Validation Loss: 0.0145
+Epoch 402 finished. Avg Train Loss: 0.0018. Time: 0.76s
+Validation Loss: 0.0142
+Epoch 403 finished. Avg Train Loss: 0.0018. Time: 0.85s
+Validation Loss: 0.0141
+Epoch 404 finished. Avg Train Loss: 0.0017. Time: 0.80s
+Validation Loss: 0.0135
+Epoch 405 finished. Avg Train Loss: 0.0018. Time: 0.80s
+Validation Loss: 0.0136
+Epoch 406 finished. Avg Train Loss: 0.0019. Time: 0.79s
+Validation Loss: 0.0173
+Epoch 407 finished. Avg Train Loss: 0.0020. Time: 0.81s
+Validation Loss: 0.0148
+Epoch 408 finished. Avg Train Loss: 0.0018. Time: 0.80s
+Validation Loss: 0.0145
+Epoch 409 finished. Avg Train Loss: 0.0019. Time: 0.85s
+Validation Loss: 0.0138
+Epoch 410 finished. Avg Train Loss: 0.0018. Time: 0.78s
+Validation Loss: 0.0147
+Epoch 411 finished. Avg Train Loss: 0.0018. Time: 0.83s
+Validation Loss: 0.0148
+Epoch 412 finished. Avg Train Loss: 0.0018. Time: 0.94s
+Validation Loss: 0.0137
+Epoch 413 finished. Avg Train Loss: 0.0018. Time: 0.88s
+Validation Loss: 0.0160
+Epoch 414 finished. Avg Train Loss: 0.0018. Time: 0.83s
+Validation Loss: 0.0146
+Epoch 415 finished. Avg Train Loss: 0.0019. Time: 0.81s
+Validation Loss: 0.0138
+Epoch 416 finished. Avg Train Loss: 0.0018. Time: 0.97s
+Validation Loss: 0.0147
+Epoch 417 finished. Avg Train Loss: 0.0018. Time: 1.02s
+Validation Loss: 0.0151
+Epoch 418 finished. Avg Train Loss: 0.0018. Time: 0.90s
+Validation Loss: 0.0150
+Epoch 419 finished. Avg Train Loss: 0.0020. Time: 0.87s
+Validation Loss: 0.0148
+Epoch 420 finished. Avg Train Loss: 0.0019. Time: 0.82s
+Validation Loss: 0.0154
+Epoch 421 finished. Avg Train Loss: 0.0018. Time: 0.86s
+Validation Loss: 0.0166
+Epoch 422 finished. Avg Train Loss: 0.0019. Time: 0.87s
+Validation Loss: 0.0148
+Epoch 423 finished. Avg Train Loss: 0.0018. Time: 0.82s
+Validation Loss: 0.0157
+Epoch 424 finished. Avg Train Loss: 0.0017. Time: 0.87s
+Validation Loss: 0.0159
+Epoch 425 finished. Avg Train Loss: 0.0018. Time: 0.87s
+Validation Loss: 0.0165
+Epoch 426 finished. Avg Train Loss: 0.0019. Time: 0.85s
+Validation Loss: 0.0140
+Epoch 427 finished. Avg Train Loss: 0.0017. Time: 0.83s
+Validation Loss: 0.0141
+Epoch 428 finished. Avg Train Loss: 0.0018. Time: 0.76s
+Validation Loss: 0.0154
+Epoch 429 finished. Avg Train Loss: 0.0018. Time: 0.81s
+Validation Loss: 0.0136
+Epoch 430 finished. Avg Train Loss: 0.0017. Time: 0.81s
+Validation Loss: 0.0147
+Epoch 431 finished. Avg Train Loss: 0.0018. Time: 0.81s
+Validation Loss: 0.0137
+Epoch 432 finished. Avg Train Loss: 0.0017. Time: 0.88s
+Validation Loss: 0.0129
+Epoch 433 finished. Avg Train Loss: 0.0016. Time: 0.90s
+Validation Loss: 0.0130
+Epoch 434 finished. Avg Train Loss: 0.0017. Time: 0.91s
+Validation Loss: 0.0168
+Epoch 435 finished. Avg Train Loss: 0.0018. Time: 0.85s
+Validation Loss: 0.0131
+Epoch 436 finished. Avg Train Loss: 0.0018. Time: 0.97s
+Validation Loss: 0.0140
+Epoch 437 finished. Avg Train Loss: 0.0017. Time: 0.86s
+Validation Loss: 0.0145
+Epoch 438 finished. Avg Train Loss: 0.0018. Time: 0.79s
+Validation Loss: 0.0137
+Epoch 439 finished. Avg Train Loss: 0.0017. Time: 0.85s
+Validation Loss: 0.0139
+Epoch 440 finished. Avg Train Loss: 0.0017. Time: 0.80s
+Validation Loss: 0.0145
+Epoch 441 finished. Avg Train Loss: 0.0018. Time: 0.99s
+Validation Loss: 0.0147
+Epoch 442 finished. Avg Train Loss: 0.0019. Time: 0.85s
+Validation Loss: 0.0145
+Epoch 443 finished. Avg Train Loss: 0.0019. Time: 0.82s
+Validation Loss: 0.0142
+Epoch 444 finished. Avg Train Loss: 0.0019. Time: 0.88s
+Validation Loss: 0.0164
+Epoch 445 finished. Avg Train Loss: 0.0018. Time: 0.79s
+Validation Loss: 0.0175
+Epoch 446 finished. Avg Train Loss: 0.0018. Time: 0.91s
+Validation Loss: 0.0165
+Epoch 447 finished. Avg Train Loss: 0.0018. Time: 0.83s
+Validation Loss: 0.0143
+Epoch 448 finished. Avg Train Loss: 0.0020. Time: 0.90s
+Validation Loss: 0.0136
+Epoch 449 finished. Avg Train Loss: 0.0017. Time: 0.84s
+Validation Loss: 0.0140
+Epoch 450 finished. Avg Train Loss: 0.0017. Time: 0.79s
+Validation Loss: 0.0132
+Epoch 451 finished. Avg Train Loss: 0.0016. Time: 0.84s
+Validation Loss: 0.0129
+Epoch 452 finished. Avg Train Loss: 0.0016. Time: 0.83s
+Validation Loss: 0.0130
+Epoch 453 finished. Avg Train Loss: 0.0018. Time: 0.86s
+Validation Loss: 0.0131
+Epoch 454 finished. Avg Train Loss: 0.0018. Time: 0.87s
+Validation Loss: 0.0146
+Epoch 455 finished. Avg Train Loss: 0.0017. Time: 0.76s
+Validation Loss: 0.0133
+Epoch 456 finished. Avg Train Loss: 0.0017. Time: 0.74s
+Validation Loss: 0.0140
+Epoch 457 finished. Avg Train Loss: 0.0017. Time: 0.74s
+Validation Loss: 0.0130
+Epoch 458 finished. Avg Train Loss: 0.0016. Time: 0.84s
+Validation Loss: 0.0130
+Epoch 459 finished. Avg Train Loss: 0.0017. Time: 0.84s
+Validation Loss: 0.0138
+Epoch 460 finished. Avg Train Loss: 0.0017. Time: 0.86s
+Validation Loss: 0.0126
+Epoch 461 finished. Avg Train Loss: 0.0017. Time: 0.88s
+Validation Loss: 0.0134
+Epoch 462 finished. Avg Train Loss: 0.0017. Time: 0.90s
+Validation Loss: 0.0136
+Epoch 463 finished. Avg Train Loss: 0.0017. Time: 0.79s
+Validation Loss: 0.0136
+Epoch 464 finished. Avg Train Loss: 0.0017. Time: 0.90s
+Validation Loss: 0.0153
+Epoch 465 finished. Avg Train Loss: 0.0017. Time: 0.81s
+Validation Loss: 0.0149
+Epoch 466 finished. Avg Train Loss: 0.0018. Time: 0.79s
+Validation Loss: 0.0134
+Epoch 467 finished. Avg Train Loss: 0.0017. Time: 0.93s
+Validation Loss: 0.0132
+Epoch 468 finished. Avg Train Loss: 0.0018. Time: 1.04s
+Validation Loss: 0.0133
+Epoch 469 finished. Avg Train Loss: 0.0017. Time: 0.85s
+Validation Loss: 0.0133
+Epoch 470 finished. Avg Train Loss: 0.0017. Time: 0.87s
+Validation Loss: 0.0136
+Epoch 471 finished. Avg Train Loss: 0.0016. Time: 0.89s
+Validation Loss: 0.0127
+Epoch 472 finished. Avg Train Loss: 0.0016. Time: 0.79s
+Validation Loss: 0.0130
+Epoch 473 finished. Avg Train Loss: 0.0016. Time: 0.79s
+Validation Loss: 0.0131
+Epoch 474 finished. Avg Train Loss: 0.0017. Time: 0.81s
+Validation Loss: 0.0142
+Epoch 475 finished. Avg Train Loss: 0.0017. Time: 0.91s
+Validation Loss: 0.0131
+Epoch 476 finished. Avg Train Loss: 0.0018. Time: 0.81s
+Validation Loss: 0.0134
+Epoch 477 finished. Avg Train Loss: 0.0017. Time: 0.79s
+Validation Loss: 0.0149
+Epoch 478 finished. Avg Train Loss: 0.0017. Time: 0.91s
+Validation Loss: 0.0132
+Epoch 479 finished. Avg Train Loss: 0.0017. Time: 0.91s
+Validation Loss: 0.0138
+Epoch 480 finished. Avg Train Loss: 0.0016. Time: 0.81s
+Validation Loss: 0.0127
+Epoch 481 finished. Avg Train Loss: 0.0017. Time: 1.04s
+Validation Loss: 0.0142
+Epoch 482 finished. Avg Train Loss: 0.0017. Time: 0.87s
+Validation Loss: 0.0127
+Epoch 483 finished. Avg Train Loss: 0.0016. Time: 0.82s
+Validation Loss: 0.0144
+Epoch 484 finished. Avg Train Loss: 0.0017. Time: 0.78s
+Validation Loss: 0.0136
+Epoch 485 finished. Avg Train Loss: 0.0017. Time: 0.80s
+Validation Loss: 0.0148
+Epoch 486 finished. Avg Train Loss: 0.0018. Time: 0.92s
+Validation Loss: 0.0151
+Epoch 487 finished. Avg Train Loss: 0.0017. Time: 0.98s
+Validation Loss: 0.0167
+Epoch 488 finished. Avg Train Loss: 0.0017. Time: 0.98s
+Validation Loss: 0.0128
+Epoch 489 finished. Avg Train Loss: 0.0017. Time: 0.82s
+Validation Loss: 0.0131
+Epoch 490 finished. Avg Train Loss: 0.0016. Time: 0.80s
+Validation Loss: 0.0123
+Epoch 491 finished. Avg Train Loss: 0.0016. Time: 0.81s
+Validation Loss: 0.0129
+Epoch 492 finished. Avg Train Loss: 0.0016. Time: 0.83s
+Validation Loss: 0.0137
+Epoch 493 finished. Avg Train Loss: 0.0017. Time: 0.85s
+Validation Loss: 0.0141
+Epoch 494 finished. Avg Train Loss: 0.0017. Time: 0.88s
+Validation Loss: 0.0125
+Epoch 495 finished. Avg Train Loss: 0.0016. Time: 0.86s
+Validation Loss: 0.0132
+Epoch 496 finished. Avg Train Loss: 0.0016. Time: 0.80s
+Validation Loss: 0.0136
+Epoch 497 finished. Avg Train Loss: 0.0016. Time: 0.82s
+Validation Loss: 0.0126
+Epoch 498 finished. Avg Train Loss: 0.0016. Time: 0.83s
+Validation Loss: 0.0121
+Epoch 499 finished. Avg Train Loss: 0.0016. Time: 0.85s
+Validation Loss: 0.0132
+Training complete. Shutting down TensorBoard writer.
