@@ -22,7 +22,7 @@ def main(args):
     scheduler = torch.optim.lr_scheduler.OneCycleLR(optimizer, max_lr=args.lr, epochs=args.epochs,
                                                     steps_per_epoch=len(train_loader))
     
-    criterion = LpLoss(size_average=True)
+    criterion = LpLoss(size_average=False)
     
     # 3. Instantiate and run the Trainer
     trainer = Trainer(model, train_loader, val_loader, 

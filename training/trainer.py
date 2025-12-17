@@ -65,7 +65,7 @@ class Trainer:
     def _load_checkpoint(self, path: str):
         """Loads model and optimizer state from a checkpoint path."""
         if not os.path.exists(path):
-            self.logger.warning(f"No checkpoint found at {path}. Starting training from epoch 1.")
+            print(f"No checkpoint found at {path}. Starting training from epoch 1.")
             return
 
         self.logger.info(f"Loading checkpoint from {path}...")
