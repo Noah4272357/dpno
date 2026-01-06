@@ -15,7 +15,7 @@ def get_dataloader(pde_name,ntrain=900,ntest=100,batch_size=64,seed=42,noise='No
     if pde_name=='Darcy_Flow':
         r=2
         s=128
-        filepath='/data/wyc/data/new_darcyflow.mat'
+        filepath='FILEPATH'
         data = scio.loadmat(filepath)
         features=data['a']
         label=data['u']
@@ -34,14 +34,14 @@ def get_dataloader(pde_name,ntrain=900,ntest=100,batch_size=64,seed=42,noise='No
         grids= grid.repeat(ntrain+ntest, 1, 1, 1)
     
     elif pde_name=='KS':
-        filepath='/data/wyc/data/kuramoto_s.mat'
+        filepath='FILEPATH'
         r=1
         xstep=128
         tstep=101
         data = scio.loadmat(filepath)
         features=data['input']
         labels=data['output']
-        features=np.repeat(np.expand_dims(features,axis=1),label.shape[1],axis=1)
+        features=np.repeat(np.expand_dims(features,axis=1),labels.shape[1],axis=1)
         features = torch.from_numpy(features).float()
         labels = torch.from_numpy(labels)
         features = features[:, ::r, ::r]
@@ -57,7 +57,7 @@ def get_dataloader(pde_name,ntrain=900,ntest=100,batch_size=64,seed=42,noise='No
         
 
     elif pde_name=='Navier_Stokes_2D':
-        filepath='/data/wyc/data/ns_2d'
+        filepath='FILEPATH'
         features=np.load(filepath+'/in_f.npy')
         label=np.load(filepath+'/out_f.npy')
         grid=np.load(filepath+'/grid.npy')
@@ -80,7 +80,7 @@ def get_dataloader(pde_name,ntrain=900,ntest=100,batch_size=64,seed=42,noise='No
     elif pde_name=='Navier_Stokes_2D1':
         T_in=10
         T=10
-        filepath='/data/wyc/data/NavierStokes_V1e-5_N1200_T20.mat'
+        filepath='FILEPATH'
         data = scio.loadmat(filepath)
         features=data['u'][:,:,:,:T_in]
         label=data['u'][:,:,:,T_in:T_in+T]
@@ -116,15 +116,15 @@ def get_dataloader(pde_name,ntrain=900,ntest=100,batch_size=64,seed=42,noise='No
     
     elif pde_name.endswith('HH'):
         if pde_name.endswith('single_pulse_HH'):
-            filepath='../data_folder/HH_model_data.npz'
+            filepath='FILEPATH'
         # features=data['I_store']
         # labels=data['X_store'][:,0,:]
         elif pde_name.endswith('sin_pulse_HH'):
-            filepath='../data_folder/sin_HH_model_data.npz'
+            filepath='FILEPATH'
         elif pde_name.endswith('long_pulse_HH'):
-            filepath='../data_folder/long_HH_model_data.npz'
+            filepath='FILEPATH'
         else:
-            filepath='../data_folder/multi_HH_model_data.npz'
+            filepath='FILEPATH'
         data=np.load(filepath)
         if pde_name.startswith('inverse'):
             labels=data['Iapp']
@@ -137,8 +137,8 @@ def get_dataloader(pde_name,ntrain=900,ntest=100,batch_size=64,seed=42,noise='No
         features,labels,grids=torch.from_numpy(features).float(),torch.from_numpy(labels).float(),torch.from_numpy(grids).float()     
 
     elif pde_name=='Burgers':
-        filepath='/data/wyc/data/new_burgers.mat'
-        #filepath2='/data/wyc/data/analytic_burgers.mat'
+        filepath='FILEPATH'
+        #filepath2='FILEPATH'
         # burgers parameters
         r=1
         xstep=256
@@ -159,7 +159,7 @@ def get_dataloader(pde_name,ntrain=900,ntest=100,batch_size=64,seed=42,noise='No
         grids=grid.repeat(ntrain+ntest, 1, 1, 1)
         features,labels,grids=torch.from_numpy(features).float(),torch.from_numpy(labels).float(),torch.from_numpy(grids).float()
     elif pde_name=='Schrodinger':
-        filepath='/data/wyc/data/schrodinger.mat'
+        filepath='FILEPATH'
         r=1
         xstep=256
         tstep=101
@@ -182,9 +182,9 @@ def get_dataloader(pde_name,ntrain=900,ntest=100,batch_size=64,seed=42,noise='No
 
     elif pde_name.endswith('Darcy'):
         if pde_name=='Irregular_Darcy':
-            filepath='/data/neural/darcy_irregular/datasets/Darcy_Triangular.mat'
+            filepath='FILEPATH'
         else:
-            filepath='/data/neural/darcy_circle/Darcy_Circle.mat'
+            filepath='FILEPATH'
         data = scio.loadmat(filepath)
         features=data['f_bc']
         label=data['u_field']
@@ -203,31 +203,9 @@ def get_dataloader(pde_name,ntrain=900,ntest=100,batch_size=64,seed=42,noise='No
         y_test = torch.from_numpy(y_test)
         grid_test=grid.repeat(ntest, 1)
         
-    elif pde_name=='weather':
-        ntrain, nvalid, ntest = 1825, 500, 1325
-        d = np.load("/data/wyc/data/weather_dataset.npz")
-        x = d["U_train"]
-        y = d["S_train"] / 1000.0
-        x=x.reshape(-1,72,72)
-        y=y.reshape(-1,72,72)
-        x = torch.from_numpy(x).float()
-        y = torch.from_numpy(y).float()
-        gridx = np.linspace(0, 1, 72) 
-        gridy = np.linspace(0, 1, 72) 
-        grid = np.vstack([xx.ravel() for xx in np.meshgrid(*[gridx, gridy])]).T
-        grid = grid.reshape(72, 72, 2)
-        grid = torch.tensor(grid, dtype=torch.float)
-        x_train = x[:ntrain, ...]
-        x_valid = x[ntrain : ntrain + nvalid, ...]
-        x_test = x[ntrain + nvalid : ntrain + nvalid + ntest, ...]
-        y_train = y[:ntrain, ...]
-        y_valid = y[ntrain : ntrain + nvalid, ...]
-        y_test = y[ntrain + nvalid : ntrain + nvalid + ntest, ...]
-        grid_train = grid.repeat(ntrain, 1, 1, 1)
-        grid_test = grid.repeat(ntest, 1, 1, 1)
 
     elif pde_name=='Poisson':
-        filepath='/data/wyc/data/poisson'
+        filepath='FILEPATH'
         features=np.load(filepath+'/in_f.npy')
         labels=np.load(filepath+'/out_f.npy')
         grid=np.load(filepath+'/grid.npy')
