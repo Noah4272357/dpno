@@ -1,0 +1,11 @@
+run:
+  dir: ${experiment.save_path}/${experiment.name}/${now:%Y-%m-%d-%H-%M-%S}
+job:
+  name: ${experiment.name}
+  # chdir: true
+job_logging:
+  version: 1
+  formatters:
+    simple:
+      format: "[%(asctime)s]: %(message)s"
+      datefmt: "%Y-%m-%d %H:%M:%S"

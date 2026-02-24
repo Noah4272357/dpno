@@ -1,0 +1,15 @@
+defaults:
+  - hydra: default
+  - model: oformer_darcy
+  - dataset: darcy
+  - _self_
+  
+experiment:
+  name: OFormer_darcy
+  seed: 1
+  save_path: ./log
+  path_to_resume: null
+  lr: 6e-4
+  epochs: 2 #50
+  device: "cuda:1"
+  save_freq: 25

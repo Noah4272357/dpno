@@ -1,0 +1,10 @@
+defaults:
+  - hydra: default
+  - model: fno
+  - dataset: default
+  - _self_
+  
+experiment:
+  name: FNO
+  seed: 0
+  save_path: ./log

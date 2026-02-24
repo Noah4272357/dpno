@@ -1,0 +1,18 @@
+defaults:
+  - hydra: default
+  - model: oformer_ns
+  - dataset: ns_npy
+  - _self_
+  
+experiment:
+  name: OFormer_ns
+  seed: 1
+  save_path: ./log
+  path_to_resume: null
+  lr: 5e-4
+  epochs: 200
+  device: "cuda:0"
+  curriculum_ratio: 0.16
+  curriculum_steps: 10
+  use_grad: True
+  save_freq: 20

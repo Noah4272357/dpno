@@ -1,0 +1,13 @@
+name: OFormer_ns
+
+in_channels: 12
+encoder_emb_dim: 96
+out_seq_emb_dim: 192
+encoder_depth: 5
+encoder_heads: 1
+
+out_channels: 1
+decoder_emb_dim: 384
+propagator_depth: 1
+out_step: 1
+fourier_frequency: 8

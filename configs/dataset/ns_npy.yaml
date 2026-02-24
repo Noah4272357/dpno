@@ -1,0 +1,9 @@
+data_name: "ns_npy"
+data_file: "/data/wyc/data/fno_ns_Re200_N10000_T30.npy"
+ntrain: 9800
+ntest: 200
+batch_size: 16
+transformation: "unit_gaussian"
+transformation_dim: null
+in_seq_len: 10
+out_seq_len: 20

@@ -1,0 +1,10 @@
+name: OFormer_darcy
+
+input_channels: 3
+in_emb_dim: 96
+out_seq_emb_dim: 256
+heads: 4
+depth: 6
+use_ln: True
+
+output_channels: 1

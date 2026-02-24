@@ -1,0 +1,10 @@
+defaults:
+  - hydra: default
+  - model: default
+  - dataset: default
+  - _self_
+  
+experiment:
+  name: Test
+  seed: 0
+  save_path: ./log
