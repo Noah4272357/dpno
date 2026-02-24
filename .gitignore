@@ -40,6 +40,9 @@ data/raw/
 data/processed/  # 如果很大
 experiments/logs
 experiments/*/checkpoints/*.pth  # 可以忽略中间检查点
+/log
+/runs
+/slurm_output
 
 # OS
 .DS_Store
@@ -51,3 +54,7 @@ Thumbs.db
 *.pkl
 *.h5
 *.hdf5
+
+# Ignore test files
+*test.py
+*test.ipynb
