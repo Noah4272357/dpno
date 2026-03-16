@@ -1,0 +1,12 @@
+dataset:
+  file_path: GIVEN_PATH
+  reduced_resolution: 4
+  reduced_resolution_t: 5
+  reduced_batch: 1
+  train_size: 1000
+  test_size: 200
+
+dataloader:
+  batch_size: 50
+  num_workers: 1
+  pin_memory: False
