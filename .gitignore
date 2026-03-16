@@ -37,7 +37,6 @@ envs/
 *.swo
 
 # 数据集
-data/
 datasets/
 __pycache__/
 *.pyc
